@@ -14,7 +14,9 @@ docs/
 ├── 02_economic_supply_chain.md  # AI for supply chain shock propagation
 ├── 03_social_network.md         # AI for social influence/information diffusion
 ├── 04_infrastructure.md         # AI for cascading failure prediction in power grids
-└── 05_gnn_based.md              # General GNN methods for propagation modeling
+├── 05_gnn_based.md              # General GNN methods for propagation modeling
+└── deep_dive/
+    └── DD7_mit_research_landscape.md  # MIT research landscape survey
 ```
 
 ## Key AI Approaches by Domain
