@@ -16,7 +16,8 @@ docs/
 ├── 04_infrastructure.md         # AI for cascading failure prediction in power grids
 ├── 05_gnn_based.md              # General GNN methods for propagation modeling
 └── deep_dive/
-    └── DD7_mit_research_landscape.md  # MIT research landscape survey
+    ├── DD7_mit_research_landscape.md  # MIT research landscape survey
+    └── DD8_mit_sdm_research.md        # MIT SDM program related research
 ```
 
 ## Key AI Approaches by Domain
